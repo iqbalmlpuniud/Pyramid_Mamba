@@ -1,4 +1,4 @@
-# Pyramid Mamba: [Your Paper Title]
+# Pyramid Mamba: 
 
 This repository contains the official code for our paper:
 

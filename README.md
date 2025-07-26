@@ -1,4 +1,4 @@
-# Pyramid Mamba: 
+# Pyramid Mamba
 
 This repository contains the official code for our paper:
 
